@@ -2,69 +2,85 @@
 
 
 
-Junior Data Analyst | Program Simulasi Industri Angkatan 2 
+Junior Data Analyst | Program Simulasi Industri Angkatan 2
 
-PT Edusoft Center Teknologi 
+PT Edusoft Center Teknologi
 
-&#x20;
 
-\## 📊 Tentang Proyek Ini 
 
-&#x20;
+\## 📖 Tentang Proyek Ini
 
-Repository ini mendokumentasikan perjalanan saya selama 12 minggu 
 
-mempelajari data analysis dari dasar hingga proyek end-to-end. 
 
-&#x20;
+Repository ini mendokumentasikan perjalanan saya selama 12 minggu mempelajari data analysis dari dasar hingga proyek end-to-end.
 
-\*\*Dataset:\*\* \[Nama Dataset] — \[link sumber, contoh: Kaggle] 
 
-\*\*Topik Bisnis:\*\* \[misal: Analisis Penjualan E-commerce 2024] 
 
-\*\*Tools:\*\* Python, SQL, Looker Studio, Git 
+\*\*Dataset:\*\* Kaggle - https://www.kaggle.com/
 
-&#x20;
+\*\*Topik Bisnis:\*\* Analisis Penjualan E-commerce 2024
 
-\## 🗂 Struktur Repository 
+\*\*Tools:\*\* Python, SQL, Looker Studio, Git
 
-&#x20;
 
-| Folder | Isi | 
 
-| ------ | --- | 
+\## 📁 Struktur Repository
 
-| notebooks/ | Jupyter notebooks per tahap analisis | 
 
-| sql/ | Query SQL untuk analisis bisnis | 
 
-| reports/ | Laporan analisis dan slide | 
+| Folder | Isi |
 
-| dashboard/ | Screenshot dan link dashboard | 
+| ------ | --- |
 
-| docs/ | Dokumentasi dan catatan sprint | 
+| notebooks/ | Jupyter notebooks per tahap analisis |
 
-&#x20;
+| sql/ | Query SQL untuk analisis bisnis |
 
-\## 📥 Cara Download Dataset 
+| reports/ | Laporan analisis dan slide |
 
-&#x20;
+| dashboard/ | Screenshot dan link dashboard |
 
-1\. Buka link: \[https://www.kaggle.com/...] 
+| docs/ | Dokumentasi dan catatan sprint |
 
-2\. Download file: dataset\_penjualan.csv 
 
-3\. Simpan ke folder: data/raw/ 
 
-&#x20;
+\## 📥 Cara Download Dataset
 
-\## 📈 Progress Mingguan 
 
-&#x20;- \[x] W1-2: Setup \& Data Brief - \[ ] W3-4: Data Cleaning \& SQL - \[ ] W5-6: Exploratory Data Analysis - \[ ] W7-8: Business Question Analysis - \[ ] W9-10: Dashboard \& Storytelling - \[ ] W11-12: Final Project 
 
-&#x20;
+1\. Buka link: https://www.kaggle.com/datasets/dinishalikha/dataset-penjualan
 
-\## 🔗 Links 
+2\. Download file: dataset\_penjualan.csv
 
-&#x20;- 📊 Dashboard: \[link Looker Studio - diisi W9] - 📝 Blog: \[link Medium/Hashnode - diisi W4] - 🔗 LinkedIn: \[link LinkedIn kamu] 
+3\. Simpan ke folder: data/raw/
+
+
+
+\## 📝 Progress Mingguan
+
+
+
+\- \[x] W1-2: Setup \& Data Brief
+
+\- \[ ] W3-4: Data Cleaning \& SQL
+
+\- \[ ] W5-6: Exploratory Data Analysis
+
+\- \[ ] W7-8: Business Question Analysis
+
+\- \[ ] W9-10: Dashboard \& Storytelling
+
+\- \[ ] W11-12: Final Project
+
+
+
+\## 🔗 Links
+
+
+
+\- 📊 Dashboard: \[link Looker Studio - diisi W9]
+
+\- 📝 Blog: \[link Medium/Hashnode - diisi W4]
+
+\- 🔗 LinkedIn: \[link LinkedIn kamu]
 
