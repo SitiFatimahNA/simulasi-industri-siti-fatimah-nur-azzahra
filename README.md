@@ -1,4 +1,4 @@
-\# 👋 Halo, Saya Siti Fatimah Nur Azzahra
+# 👋 Halo, Saya Siti Fatimah Nur Azzahra
 
 
 
@@ -8,7 +8,7 @@ PT Edusoft Center Teknologi
 
 
 
-\## 📖 Tentang Proyek Ini
+## 📖 Tentang Proyek Ini
 
 
 
@@ -16,15 +16,15 @@ Repository ini mendokumentasikan perjalanan saya selama 12 minggu mempelajari da
 
 
 
-\*\*Dataset:\*\* Kaggle - https://www.kaggle.com/
+*\*Dataset:\*\* Kaggle - https://www.kaggle.com/
 
-\*\*Topik Bisnis:\*\* Analisis Penjualan E-commerce 2024
+*\*Topik Bisnis:\*\* Analisis Penjualan E-commerce 2024
 
-\*\*Tools:\*\* Python, SQL, Looker Studio, Git
+*\*Tools:\*\* Python, SQL, Looker Studio, Git
 
 
 
-\## 📁 Struktur Repository
+## 📁 Struktur Repository
 
 
 
@@ -44,19 +44,19 @@ Repository ini mendokumentasikan perjalanan saya selama 12 minggu mempelajari da
 
 
 
-\## 📥 Cara Download Dataset
+## 📥 Cara Download Dataset
 
 
 
-1\. Buka link: https://www.kaggle.com/datasets/dinishalikha/dataset-penjualan
+1. Buka link: https://www.kaggle.com/datasets/dinishalikha/dataset-penjualan
 
-2\. Download file: dataset\_penjualan.csv
+2. Download file: dataset\_penjualan.csv
 
-3\. Simpan ke folder: data/raw/
+3. Simpan ke folder: data/raw/
 
 
 
-\## 📝 Progress Mingguan
+## 📝 Progress Mingguan
 
 
 
@@ -74,13 +74,13 @@ Repository ini mendokumentasikan perjalanan saya selama 12 minggu mempelajari da
 
 
 
-\## 🔗 Links
+## 🔗 Links
 
 
 
-\- 📊 Dashboard: \[link Looker Studio - diisi W9]
+- 📊 Dashboard: \[link Looker Studio - diisi W9]
 
-\- 📝 Blog: \[link Medium/Hashnode - diisi W4]
+- 📝 Blog: \[link Medium/Hashnode - diisi W4]
 
-\- 🔗 LinkedIn: \[link LinkedIn kamu]
+- 🔗 LinkedIn: \[link LinkedIn kamu]
 
